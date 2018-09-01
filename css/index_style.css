@@ -1,0 +1,41 @@
+#wrapper {
+	background: #34495e;
+	color: #ecf0f1;
+	margin: 0;
+	padding: 0;
+    height: 2px;
+    width: 2px;
+    
+}
+
+
+.typedT
+{
+   
+    
+     width: 40%;
+    margin-left: 400px;
+    text-align: center;
+    border: solid 4px #fff;
+    display: none;
+}
+.container
+{
+    padding-top: 100px;
+    display: none;
+}
+h4
+{
+    padding-top: 25px;
+    color: #ecf0f1;
+}
+
+.forum-data
+{
+    padding: 15px 15px
+}
+
+#Second-Section
+{
+	display:none;
+}
