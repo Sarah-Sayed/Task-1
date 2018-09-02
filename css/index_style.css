@@ -1,3 +1,7 @@
+*
+{
+    transition: all 1s;
+}
 #wrapper {
 	background: #34495e;
 	color: #ecf0f1;
@@ -39,3 +43,34 @@ h4
 {
 	display:none;
 }
+
+.card
+{
+    background-color: palegreen;
+}
+
+.card-text
+{
+    color: black;
+}
+
+ .card:hover
+{
+    border-radius: 25%;
+}
+
+ .card img:hover
+{
+    transform: scale(1.1,1.1);
+    border-radius: 15%;
+}
+
+.star
+{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+
+
+
